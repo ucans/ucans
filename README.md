@@ -4,6 +4,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ucans&show_icons=true&theme=radical" />
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ucans&count_private=true&show_icons=true&theme=radical)
+
+
 <!--
 **ucans/ucans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
