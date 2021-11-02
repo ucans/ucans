@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=%20Ucan&desc=👑The%20king%20of%20Gachon%20UMC👑%20&descAlignY=70&descAlign=50&height=200&fontSize=100&fontColor=8307f8)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ucans&show_icons=true&theme=radical" />
-</a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ucans&count_private=true&show_icons=true&theme=radical)
 
 
